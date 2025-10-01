@@ -4,7 +4,7 @@
 
 # System.out.print("Café com Java");
 
-Podcast sobre Java Backend para iniciantes, apresentado por Daniels (déniels), com curiosidades, dicas e insights do mercado.
+Podcast sobre Java Backend para iniciantes, apresentado por Daniels, com curiosidades, dicas e insights do mercado.
 
 ## 🎧 Onde ouvir
 
